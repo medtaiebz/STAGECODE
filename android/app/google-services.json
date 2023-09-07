@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926656653960",
+    "firebase_url": "https://telemetry-system-8d017-default-rtdb.firebaseio.com",
+    "project_id": "telemetry-system-8d017",
+    "storage_bucket": "telemetry-system-8d017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926656653960:android:845e598a3569e0241b4d3d",
+        "android_client_info": {
+          "package_name": "com.dashboard.flutter.app.flutter_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926656653960-acggi2gmf0cptql7fsa7jgck56m9995a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCGWrtWhhOOVupMrCctcNJ86eS6CAIvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926656653960-acggi2gmf0cptql7fsa7jgck56m9995a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926656653960-cmc7lem0ah52da5bph66aghaj182l59h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dashboard.flutter.app.flutterDashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
