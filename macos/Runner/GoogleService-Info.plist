@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>926656653960-cmc7lem0ah52da5bph66aghaj182l59h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.926656653960-cmc7lem0ah52da5bph66aghaj182l59h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZQ02ogQGEmulZM6u3z3V1XBBjLygIri8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>926656653960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dashboard.flutter.app.flutterDashboard</string>
+	<key>PROJECT_ID</key>
+	<string>telemetry-system-8d017</string>
+	<key>STORAGE_BUCKET</key>
+	<string>telemetry-system-8d017.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:926656653960:ios:502d5bdf9d8bee1f1b4d3d</string>
+	<key>DATABASE_URL</key>
+	<string>https://telemetry-system-8d017-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
